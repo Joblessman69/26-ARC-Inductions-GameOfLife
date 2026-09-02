@@ -1,4 +1,4 @@
-# ARC Game of Life Simulator — Induction Task
+# ARC Game of Life Simulator — Induction Task-fork
 
 Welcome to the induction program for our club. This repository will guide you through the Game of Life task, helping you get started with basic Python scripting, algorithms, and terminal interfaces.
 
